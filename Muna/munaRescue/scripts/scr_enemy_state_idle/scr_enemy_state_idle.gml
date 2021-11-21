@@ -16,10 +16,17 @@ function scr_enemy_state_idle(){
 				}
 			}
 			
-			if(collision_circle(x,y,alert_radius,obj_player,false,false))
+			//we can use --> distance_to_object(player) < some number
+			
+			if(collision_circle(x,y,attack_radius,obj_player,false,false))
 			{
-				state = states.alert;
+				state = states.chase;
 			}
+			else if(!collision_circle(x,y,attack_radius,obj_player,false,false))
+			{
+				state = states.wander;
+			}
+			
 			
 		//sprites
 		sprite_index = spr_enemy_Idle;

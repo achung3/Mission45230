@@ -21,10 +21,14 @@ function scr_enemy_state_wander(){
 					break;
 				}
 			}
-			
-			if(collision_circle(x,y,alert_radius,obj_player,false,false))
+		
+			if(collision_circle(x,y,attack_radius,obj_player,false,false))
 			{
-				state = states.alert;
+				state = states.chase;
+			}
+			else if(!collision_circle(x,y,attack_radius,obj_player,false,false))
+			{
+				state = states.idle;
 			}
 			
 		//sprites

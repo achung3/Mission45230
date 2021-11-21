@@ -7,6 +7,7 @@
     {"id":{"name":"scr_enemy_state_attack","path":"scripts/scr_enemy_state_attack/scr_enemy_state_attack.yy",},"order":1,},
     {"id":{"name":"spr_enemy_Idle","path":"sprites/spr_enemy_Idle/spr_enemy_Idle.yy",},"order":2,},
     {"id":{"name":"scr_enemy_state_idle","path":"scripts/scr_enemy_state_idle/scr_enemy_state_idle.yy",},"order":0,},
+    {"id":{"name":"scr_enemy_state_chase","path":"scripts/scr_enemy_state_chase/scr_enemy_state_chase.yy",},"order":4,},
     {"id":{"name":"scr_enemy_state_alert","path":"scripts/scr_enemy_state_alert/scr_enemy_state_alert.yy",},"order":2,},
     {"id":{"name":"spr_player_Idle","path":"sprites/spr_player_Idle/spr_player_Idle.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},

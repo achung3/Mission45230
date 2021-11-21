@@ -5,6 +5,7 @@ enum states {
 	idle,
 	wander,
 	alert,
+	chase,
 	attack
 }
 
