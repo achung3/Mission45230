@@ -1,6 +1,6 @@
 # Mission45230
 Game: Mission 45230
-<spacer><spacer>Group: Muna
+<br>Group: Muna
 Members: Ara Chung, Rupa Prajapati, Bree Yates, 
 Justin Stephenson, and Christian Farley
 
