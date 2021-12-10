@@ -19,7 +19,7 @@ Once the game ends
 - Space: restart the game
 - Esc: end game
 
-Cheat Codes These are located in objHUD
+Cheat Codes 
 - Keypad password: '7510'
 - Alt+R: restart the room
 - Alt+G: restart the game
