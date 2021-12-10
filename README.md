@@ -16,8 +16,8 @@ Press:
     - Space: start game
 
 Once the game ends
-    - Space: restart the game
-    - Esc: end game
+- Space: restart the game
+- Esc: end game
 
 Cheat Codes These are located in objHUD
 - Keypad password: '7510'
