@@ -10,13 +10,13 @@ How to run our game:
 3. Import the .yyz file
 5. Now run (F5)
 Press:
-<br> - Shift+1: main screen
-<br> - Shift+2: level 1
-<br> - Shift+3: level 2
-<br> - Space: start game
-<br>Once the game ends
-<br> - Space: restart the game
-<br> - Esc: end game
+ - Shift+1: main screen
+ - Shift+2: level 1
+ - Shift+3: level 2
+ - Space: start game
+Once the game ends
+ - Space: restart the game
+ - Esc: end game
 
 Cheat Codes These are located in objHUD
 <br> - Keypad password: '7510'
