@@ -10,10 +10,10 @@ How to run our game:
 3. Import the .yyz file
 5. Now run (F5)
 Press:
-  Shift+1: main screen
-  Shift+2: level 1
-  Shift+3: level 2
-  Space: start game
+<br>  -Shift+1: main screen
+<br>  Shift+2: level 1
+<br>  Shift+3: level 2
+<br>  Space: start game
 Once the game ends
   Space: restart the game
   Esc: end game
