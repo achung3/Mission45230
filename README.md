@@ -14,7 +14,7 @@ Press:
     - Shift+2: level 1
     - Shift+3: level 2
     - Space: start game
-<br>Once the game ends
+Once the game ends
     - Space: restart the game
     - Esc: end game
 
