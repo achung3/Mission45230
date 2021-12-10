@@ -30,9 +30,8 @@ Cheat Codes
 - Alt+P: to move to the previous room
 
 Instructions
-- Up/Down: Up/Down the ladder
-- Left/Right: direction
-- Space: Jump
+- W/S: Up/Down the ladder
+- A/D: Left/Right direction
 - Shift: spray to dealarm the camera
 - E: pick up items, hide
  
