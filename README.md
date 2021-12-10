@@ -10,29 +10,29 @@ How to run our game:
 3. Import the .yyz file
 5. Now run (F5)
 Press:
-<br>  -Shift+1: main screen
-<br>  Shift+2: level 1
-<br>  Shift+3: level 2
-<br>  Space: start game
+<br> - Shift+1: main screen
+<br> - Shift+2: level 1
+<br> - Shift+3: level 2
+<br> - Space: start game
 Once the game ends
-  Space: restart the game
-  Esc: end game
+<br> - Space: restart the game
+<br> - Esc: end game
 
 Cheat Codes These are located in objHUD
-  Keypad password: '7510'
-  Alt+R: restart the room
-  Alt+G: restart the game
-  Alt+K: kill all enemies
-  Alt+L: to increase lives by 4 and health to 100
-  Alt+S: to gain 5p
-  Alt+N: to move to the next room... for mac you need to do Alt+Shift+N
-  Alt+P: to move to the previous room
+<br> - Keypad password: '7510'
+<br> - Alt+R: restart the room
+<br> - Alt+G: restart the game
+<br> - Alt+K: kill all enemies
+<br> - Alt+L: to increase lives by 4 and health to 100
+<br> - Alt+S: to gain 5p
+<br> - Alt+N: to move to the next room... for mac you need to do Alt+Shift+N
+<br> - Alt+P: to move to the previous room
 
 Instructions
- Up/Down: Up/Down the ladder
- Left/Right: direction
- Space: Jump
- Shift: spray to dealarm the camera
- E: pick up items, hide
+<br> - Up/Down: Up/Down the ladder
+<br> - Left/Right: direction
+<br> - Space: Jump
+<br> - Shift: spray to dealarm the camera
+<br> - E: pick up items, hide
  
 
