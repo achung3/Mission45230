@@ -32,7 +32,6 @@ Cheat Codes
 Instructions
 - W/S: Up/Down the ladder
 - A/D: Left/Right direction
-- Shift: spray to dealarm the camera
 - E: pick up items, hide
  
 
